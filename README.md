@@ -39,8 +39,8 @@ pip install pandas matplotlib seaborn numpy
 
 1.  **Clone the repository:**
     ```bash
-git clone https://github.com/Vini269/Data_Analysis_CarDekho
-cd Data_Analysis_CarDekho
+    git clone https://github.com/Vini269/Data_Analysis_CarDekho
+    cd Data_Analysis_CarDekho
     ```
 2.  **Download the Dataset:** Place the `1776311302-P3-Car Market Trends Analysis with Car Dekho Data.csv` file into the root directory of the cloned repository.
 3.  **Open in Google Colab or Jupyter Notebook:** Launch the provided Jupyter Notebook (`your_notebook_name.ipynb`) in Google Colab or a local Jupyter environment.
