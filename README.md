@@ -39,8 +39,8 @@ pip install pandas matplotlib seaborn numpy
 
 1.  **Clone the repository:**
     ```bash
-git clone <your-repository-url>
-cd <your-repository-name>
+git clone https://github.com/Vini269/Data_Analysis_CarDekho
+cd Data_Analysis_CarDekho
     ```
 2.  **Download the Dataset:** Place the `1776311302-P3-Car Market Trends Analysis with Car Dekho Data.csv` file into the root directory of the cloned repository.
 3.  **Open in Google Colab or Jupyter Notebook:** Launch the provided Jupyter Notebook (`your_notebook_name.ipynb`) in Google Colab or a local Jupyter environment.
@@ -70,7 +70,6 @@ _A histogram showing the distribution of vehicle depreciation values._
 ![Two-Wheeler Sales](assets/two_wheeler_sales.png)
 _A bar plot displaying the number of units sold for various two-wheeler models._
 
-**Note:** Replace `assets/car_name_distribution.png`, `assets/fuel_type_pie_chart.png`, etc., with the actual paths to your screenshot images. You might need to create an `assets` folder in your repository to store these images.
 
 ## Contact
 
